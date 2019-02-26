@@ -12,4 +12,4 @@
 
 复赛排名：9/2546
 
-top1：https://mp.weixin.qq.com/s?__biz=Mzg5NzAxMDgwNg==&mid=2247483956&idx=1&sn=5074fcdc8d63a6f2e9d89884d3f369ee&chksm=c0791f2df70e963bbde6058789f6d64c428c07c1f228b96b0056751d08e1b4cd5c6c752021e2&mpshare=1&scene=23&srcid=1206AIZ1BqQ7zhYhBYPa2j5Y#rd
+top1解决方案：https://mp.weixin.qq.com/s?__biz=Mzg5NzAxMDgwNg==&mid=2247483956&idx=1&sn=5074fcdc8d63a6f2e9d89884d3f369ee&chksm=c0791f2df70e963bbde6058789f6d64c428c07c1f228b96b0056751d08e1b4cd5c6c752021e2&mpshare=1&scene=23&srcid=1206AIZ1BqQ7zhYhBYPa2j5Y#rd
